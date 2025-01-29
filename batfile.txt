@@ -1,14 +1,14 @@
-streaming-extractor_music.exe "Music/OfficeStuff/Backpack" OfficeStuff-Backpack-01 OfficeStuff Zip.json
-streaming-extractor_music.exe "Music/OfficeStuff/Backpack" OfficeStuff-Backpack-02 OfficeStuff Packing Up.json
-streaming-extractor_music.exe "Music/OfficeStuff/Coffee" OfficeStuff-Coffee-01 OfficeStuff Coffee Beans.json
-streaming-extractor_music.exe "Music/OfficeStuff/Coffee" OfficeStuff-Coffee-02 OfficeStuff Coffee Cups (I broke one mug!).json
-streaming-extractor_music.exe "Music/OfficeStuff/Darts" OfficeStuff-Darts-01 OfficeStuff Darts Rustling.json
-streaming-extractor_music.exe "Music/OfficeStuff/Darts" OfficeStuff-Darts-02 OfficeStuff Darts Throws (I hit two bulls!).json
-streaming-extractor_music.exe "Music/OfficeStuff/Water" OfficeStuff-Water-01 OfficeStuff Water Bottle.json
-streaming-extractor_music.exe "Music/OfficeStuff/Water" OfficeStuff-Water-02 OfficeStuff Water Pouring.json
-streaming-extractor_music.exe "Music/PeopleStuff/Bottomless Dad Jokes" PeopleStuff-Bottomless Dad Jokes-01 PeopleStuff Track 1.json
-streaming-extractor_music.exe "Music/PeopleStuff/Bottomless Dad Jokes" PeopleStuff-Bottomless Dad Jokes-01 PeopleStuff Track 2.json
-streaming-extractor_music.exe "Music/PeopleStuff/Clicks" PeopleStuff-Clicks-01 PeopleStuff Boring Clicks.json
-streaming-extractor_music.exe "Music/PeopleStuff/Clicks" PeopleStuff-Clicks-02 PeopleStuff Clicky Clicks.json
-streaming-extractor_music.exe "Music/PeopleStuff/Whistles" PeopleStuff-Whistles-01 PeopleStuff Whistles.json
-streaming-extractor_music.exe "Music/PeopleStuff/Whistles" PeopleStuff-Whistles-02 PeopleStuff Out Of Breath.json
+streaming_extractor_music.exe "Music/OfficeStuff/Backpack01-OfficeStuff-Zip.wav" "OfficeStuff-Backpack-01-OfficeStuff-Zip.json"
+streaming_extractor_music.exe "Music/OfficeStuff/Backpack02-OfficeStuff-Packing Up.wav" "OfficeStuff-Backpack-02-OfficeStuff-Packing Up.json"
+streaming_extractor_music.exe "Music/OfficeStuff/Coffee01-OfficeStuff-Coffee Beans.wav" "OfficeStuff-Coffee-01-OfficeStuff-Coffee Beans.json"
+streaming_extractor_music.exe "Music/OfficeStuff/Coffee02-OfficeStuff-Coffee Cups (I broke one mug!).wav" "OfficeStuff-Coffee-02-OfficeStuff-Coffee Cups (I broke one mug!).json"
+streaming_extractor_music.exe "Music/OfficeStuff/Darts01-OfficeStuff-Darts Rustling.wav" "OfficeStuff-Darts-01-OfficeStuff-Darts Rustling.json"
+streaming_extractor_music.exe "Music/OfficeStuff/Darts02-OfficeStuff-Darts Throws (I hit two bulls!).wav" "OfficeStuff-Darts-02-OfficeStuff-Darts Throws (I hit two bulls!).json"
+streaming_extractor_music.exe "Music/OfficeStuff/Water01-OfficeStuff-Water Bottle.wav" "OfficeStuff-Water-01-OfficeStuff-Water Bottle.json"
+streaming_extractor_music.exe "Music/OfficeStuff/Water02-OfficeStuff-Water Pouring.wav" "OfficeStuff-Water-02-OfficeStuff-Water Pouring.json"
+streaming_extractor_music.exe "Music/PeopleStuff/Bottomless Dad Jokes01-PeopleStuff-Track 1.wav" "PeopleStuff-Bottomless Dad Jokes-01-PeopleStuff-Track 1.json"
+streaming_extractor_music.exe "Music/PeopleStuff/Bottomless Dad Jokes01-PeopleStuff-Track 2.wav" "PeopleStuff-Bottomless Dad Jokes-01-PeopleStuff-Track 2.json"
+streaming_extractor_music.exe "Music/PeopleStuff/Clicks01-PeopleStuff-Boring Clicks.wav" "PeopleStuff-Clicks-01-PeopleStuff-Boring Clicks.json"
+streaming_extractor_music.exe "Music/PeopleStuff/Clicks02-PeopleStuff-Clicky Clicks.wav" "PeopleStuff-Clicks-02-PeopleStuff-Clicky Clicks.json"
+streaming_extractor_music.exe "Music/PeopleStuff/Whistles01-PeopleStuff-Whistles.wav" "PeopleStuff-Whistles-01-PeopleStuff-Whistles.json"
+streaming_extractor_music.exe "Music/PeopleStuff/Whistles02-PeopleStuff-Out Of Breath.wav" "PeopleStuff-Whistles-02-PeopleStuff-Out Of Breath.json"

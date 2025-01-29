@@ -25,6 +25,16 @@ for(album in albums){
 
 writeLines(code.to.process, "batfile.txt")
 
+files <- list.files()
+file.name <- files[which(str_count(list.files(), ".json") >= 1)]
+filename <- str_split(file.name, "-", simplify = T)
+
+album <- filename[1]
+artist <- filename[2]
+track <- filename[3]
+
+json_file <- fromJSON(file.name)
+
 # some fixes
 # streaming-extractor_music.exe OfficeStuff Zip                                      OfficeStuff-Backpack-OfficeStuff Zip.json
 # streaming_extractor_music.exe "Music/OfficeStuff/Backpack/01-OfficeStuff-Zip.wav" "OfficeStuff-Backpack-Zip.json"

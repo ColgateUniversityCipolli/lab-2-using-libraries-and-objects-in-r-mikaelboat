@@ -25,6 +25,10 @@ for(album in albums){
 
 writeLines(code.to.process, "batfile.txt")
 
+
+###########
+#TASK 2
+###########
 files <- list.files()
 file.name <- files[which(str_count(list.files(), ".json") >= 1)]
 filename <- str_split(file.name, "-", simplify = T)
@@ -34,6 +38,16 @@ artist <- filename[2]
 track <- filename[3]
 
 json_file <- fromJSON(file.name)
+
+#STEP 3
+average_loudness <- json_file$lowlevel$average_loudness
+mean_spectral_energy <- json_file$lowlevel$spectral_energy$mean
+danceability <- json_file$rhythm$danceability
+bpm <- json_file$rhythm$bpm
+key <- json_file$tonal$key_key
+scale <- json_file$tonal$key_scale
+length <- json_file$metadata$audio_properties$length
+
 
 # some fixes
 # streaming-extractor_music.exe OfficeStuff Zip                                      OfficeStuff-Backpack-OfficeStuff Zip.json
